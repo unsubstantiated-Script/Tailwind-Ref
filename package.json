@@ -1,0 +1,23 @@
+{
+  "name": "Tailwind-Ref",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unsubstantiated-Script/Tailwind-Ref.git"
+  },
+  "keywords": [],
+  "author": "Justin C. Fulton",
+  "license": "Unsubtantiated_Script",
+  "bugs": {
+    "url": "https://github.com/unsubstantiated-Script/Tailwind-Ref/issues"
+  },
+  "homepage": "https://github.com/unsubstantiated-Script/Tailwind-Ref#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.16"
+  }
+}
